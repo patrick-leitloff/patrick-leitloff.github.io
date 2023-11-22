@@ -2,27 +2,18 @@
 layout: default
 ---
 
-Hi, my name’s Max! I’m a doctoral researcher at the University of Oldenburg’s Department of Philosophy. If you want to know more about me, feel free to take a look at
+Hi, my name is Patrick! I’m a postgraduate student at the London School of Economics and Political Science (LSE) in the Department of Economcis. If you want to know more about me, feel free to take a look at
 
 + my [education](./education.md),
 + my [employment](./employment.md),
-+ the [publications](./publications.md) I’ve written,
-+ the [presentations](./presentations.md) I’ve given,
-+ the [events](./events.md) I’ve organised,
-+ the [taching](./teaching.md)  I’ve done,
-+ the [grants and honours](./financials.md) I’ve received, or
-+ my [services to the profession](./services.md).
++ the [publications](./publications.md) I’ve (co-) written
 
-Most of this information can also be found bundled in my CV (of which you can find the most recent version in English [here](https://github.com/alephmembeth/curriculum-vitae/blob/main/english/cv_english.pdf) and in German [here](https://github.com/alephmembeth/curriculum-vitae/blob/main/german/cv_german.pdf)).
-
-Inspired by [Gilad Feldman](https://mgto.org/check-me-replicate-me/), I invite you to [check and replicate my work](./check.md).
-
-The portrait to the left (or above, if you’re on a mobile device), by the way, was painted by the talented [Spiceestew](https://spiceestew.carrd.co/).
+Most of this information can also be found bundled in my CV (of which you can find the most recent version [here](https://.pdf).
 
 * * *
 
 <dl>
-   <dt>Areas of Specialization:</dt>
+   <dt>Research Interests:</dt>
       <dd>Experimental Philosophy, Need-Based Distributive Justice, Causation</dd>
    <dt>Areas of Competence:</dt>
       <dd>Distributive Justice, Philosophy of Science</dd>
@@ -110,7 +101,7 @@ The great people with whom I had the pleasure to work or with whom I’m current
 
 # Get in Touch
 
-If you want to get in touch, you can reach me at any time via <alexander.max.bauer@uni-oldenburg.de>.
+If you want to get in touch, you can reach me at any time via <p.m.leitloff@lse.ac.uk>.
 
 On the internet, there are also some other places where you can find me, including but not limited to:
 + [Academia.edu](https://uni-oldenburg.academia.edu/alexandermaxbauer)
@@ -121,5 +112,3 @@ On the internet, there are also some other places where you can find me, includi
 + [PhilPeople](https://philpeople.org/profiles/alexander-max-bauer)
 + [ResearchGate](https://www.researchgate.net/profile/Alexander-Bauer-2)
 + [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5771974)
-+ [University of Oldenburg](https://uol.de/philosophie/alexander-max-bauer)
-+ [Wikipedia](https://de.wikipedia.org/wiki/Benutzer:Alephmembeth)
