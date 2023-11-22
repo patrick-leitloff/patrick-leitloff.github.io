@@ -8,22 +8,24 @@ Hi, my name is Patrick! I’m a postgraduate student at the London School of Eco
 + my [employment](./employment.md),
 + the [publications](./publications.md) I’ve (co-) written
 
-Most of this information can also be found bundled in my CV (of which you can find the most recent version [here](https://.pdf).
+Most of this information can also be found bundled in my CV (of which you can find the most recent version [here](https://drive.google.com/file/d/1Ai2mt1Wzk93KegvQwh1Q7NkugNRq_aMt/view?usp=drive_link).
 
 * * *
 
 <dl>
    <dt>Research Interests:</dt>
-      <dd>Experimental Philosophy, Need-Based Distributive Justice, Causation</dd>
+      <dd>Labour Market Inequality, Gender Norms, Occupation Choice and Education</dd>
    <dt>Areas of Competence:</dt>
-      <dd>Distributive Justice, Philosophy of Science</dd>
-   <dt>Areas of Interest:</dt>
-      <dd>Metaphilosophy, Philosophy of Language</dd>
+      <dd>Quantitative Economics and Empirical Research Designs, Household Bargaining Models, Statistical Learning</dd>
+   <dt>Further Areas of Interest:</dt>
+      <dd>Information Frictions and Expectation Error, particularly in the context of macroeconomic forecasting</dd>
    <dt>Tools of Choice:</dt>
-      <dd>LaTeX, LimeSurvey, oTree, Stata, R, Python</dd>
+      <dd>R, Stata, Python, Latex, Matlab</dd>
 </dl>
 
 * * *
+
+<!---
 
 # News
 
@@ -56,46 +58,40 @@ Most of this information can also be found bundled in my CV (of which you can fi
 </ul>
 </details>
 
+-->
+
 * * *
 
 # Projects
 
 The projects I’m currently working on include:
-+ my cumulative dissertation on need-based distributive justice (supervised by Mark Siebel)
-+ a paper on coherence (jointly with Michael Schippers, Mark Siebel, and Stephan Kornmesser)
-+ an edited volume on paradoxes (to be published with mentis; jointly with Gregor Damschen and Mark Siebel)
-+ an edited volume on experimental philosophy (to be published with Walter de Gruyter; jointly with Stephan Kornmesser)
-+ an introduction to methods of experimental philosophy (to be published with Springer; jointly with Stephan Kornmesser, Mark Alfano, Aurélien Allard, Lucien Baumgartner, Florian Cova, Paul Engelhardt, Eugen Fischer, Henrike Meyer, Kevin Reuter, Justin Sytsma, Kyle Thompson, and Marc Wyszynski)
-+ the next volume of the _Oldenburger Jahrbuch für Philosophie_ (to be published with BIS-Verlag; jointly with Helena Esther Grass)
++ a joint paper with Josef Zweimüller (UZH) on changes in gender norms and labour market outcomes of men and women in Switzerland since the adoption of women's suffrage
++ a comprehensive literature survey on recent developments in gender economics
++ a working paper with Heike Link and Neil Murray (both DIW) on marginal cost estimation for transport infrastructure maintenance 
++ extensions to my undergraduate thesis on information frictions in inflation forecasting
+
 
 * * *
 
 # Collaborators
 
-The great people with whom I had the pleasure to work or with whom I’m currently working include:
-+ [Mark Alfano](https://researchers.mq.edu.au/en/persons/mark-alfano) (Macquarie University)
-+ [Aurélien Allard](https://www.unige.ch/medecine/ieh2/welcome/staff/aurelien-allard/) (University of Geneva)
-+ [Nils Baratella](https://soz-kult.hs-duesseldorf.de/personen/baratella) (Hochschule Düsseldorf, University of Applied Sciences)
-+ [Lucien Baumgartner](https://www.philosophie.uzh.ch/de/seminar/people/research/snsf_reuter/baumgartner.html) (University of Zurich)
-+ [Florian Cova](https://www.unige.ch/cisa/center/members/cova-florian/) (University of Geneva)
-+ [Gregor Damschen](https://uol.de/philosophie/dr-gregor-damschen) (University of Oldenburg)
-+ [Adele Diederich](https://www.jacobs-university.de/directory/adiederich) (University of Oldenburg)
-+ [Paul Engelhardt](https://research-portal.uea.ac.uk/en/persons/paul-engelhardt) (University of East Anglia)
-+ [Eugen Fischer](https://research-portal.uea.ac.uk/en/persons/eugen-fischer) (University of East Anglia)
-+ [Helena Esther Grass](https://uol.de/philosophie/helena-grass) (University of Oldenburg)
-+ [Stephan Kornmesser](https://uol.de/stephan-kornmesser) (University of Oldenburg)
-+ [Frauke Meyer](https://www.fz-juelich.de/profile/meyer_f) (Jülich Research Centre)
-+ [Malte Ingo Meyerhuber](https://www.quotac.de/das-team.html) (QUOTAC Management)
-+ [Kevin Reuter](https://www.philosophie.unibe.ch/ueber_uns/personen/reuter/index_ger.html) (University of Bern)
-+ [Jan Romann](https://github.com/JKRhb) (Hochschule Emden/Leer, University of Applied Sciences)
-+ [Mark Siebel](https://uol.de/philosophie/prof-dr-mark-siebel) (University of Oldenburg)
-+ [Michael Schippers](https://uol.de/philosophie/ehemalige/dr-michael-schippers) (University of Oldenburg)
-+ [Nils Springhorn](https://uol.de/polsys/team/nils-springhorn) (University of Oldenburg)
-+ [Stefan Traub](https://www.hsu-hh.de/be/) (Helmut Schmidt University, University of the Federal Armed Forces Hamburg)
-+ [Justin Sytsma](https://people.wgtn.ac.nz/justin.sytsma) (Victoria University of Wellington)
-+ [Arne Robert Weiss](http://fae.ua.es/FAEX/weissarne-r/) (University of Alicante)
-+ [Kyle Thompson](https://www.kthompsonphilosophy.com/) (Harvey Mudd College)
-+ [Marc Wyszynski](https://www.uni-bremen.de/universitaet/campus/mitarbeiterinnenverzeichnis/person/187022/Wyszynski) (University of Bremen)
+Here's a list of amazing people that I (a) had the pleasure to work with and learn from in the past or (b) with whom I’m currently working with and learning from:
++ [Josef Zweimüller](https://sites.google.com/view/josefzweimueller/home) (University of Zurich)
++ [Andreas Steinhauer](https://www.ed.ac.uk/profile/andreas-steinhauer) (University of Edinburgh)
++ [David Dorn](https://www.ddorn.net/) (University of Zurich)
++ [Reto Foellmi](https://sites.google.com/site/foellmireto/home) (University of St Gallen)
++ [Sandro Favre](https://www.econ.uzh.ch/en/people/researchers/favre.html) (University of Zurich)
++ [Rafael Dix-Carneiro](https://sites.google.com/site/rafaeldixcarneiro/) (Duke University)
++ [Ricardo Reis](https://www.r2rsquared.com/) (London School of Economics and Political Science)
++ [Heike Link](https://www.diw.de/sixcms/detail.php?id=diw_01.c.10880.en) (DIW)
++ [Neil Murray](https://www.diw.de/sixcms/detail.php?id=diw_01.c.815528.en) (DIW)
++ [Eddy Zou](https://www.lse.ac.uk/economics/people/research-students/eddy-weijian-zou) (London School of Economics and Political Science)
++ Sally Kaya Yang
++ [Jason Jia](https://cepr.org/about/people/jason-jia)
++ [Tomas Tapak](https://profiles.stanford.edu/tomas-tapak) (Stanford University)
++ [Francesco Casalena](https://www.graduateinstitute.ch/discover-institute/casalena-francesco) (Geneva Graduate Institute)
++ Brooklyn Han
+
 
 * * *
 
@@ -103,12 +99,11 @@ The great people with whom I had the pleasure to work or with whom I’m current
 
 If you want to get in touch, you can reach me at any time via <p.m.leitloff@lse.ac.uk>.
 
-On the internet, there are also some other places where you can find me, including but not limited to:
-+ [Academia.edu](https://uni-oldenburg.academia.edu/alexandermaxbauer)
-+ [Google Scholar](https://scholar.google.de/citations?user=EFeokZUAAAAJ)
-+ [Mastodon](https://ohai.social/@alephmembeth)
-+ [ORCID](https://orcid.org/0000-0003-0923-6864)
-+ [OSF](https://osf.io/e7hpd/)
-+ [PhilPeople](https://philpeople.org/profiles/alexander-max-bauer)
-+ [ResearchGate](https://www.researchgate.net/profile/Alexander-Bauer-2)
-+ [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5771974)
+On the internet, there are also some other places where you can find me and reach out, including but not limited to:
++ [Academia.edu](https://independent.academia.edu/PatrickMichaelLeitloff)
++ [Twitter/X](https://twitter.com/PatrickLeitloff)
+<!--- + [Google Scholar]()  -->
+<!--- + [ORCID]() -->
+<!--- + [OSF]() -->
+<!--- + [ResearchGate]() -->
+<!--- + [SSRN]() -->
