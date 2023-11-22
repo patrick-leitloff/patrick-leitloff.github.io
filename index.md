@@ -2,14 +2,14 @@
 layout: default
 ---
 
-Hi, my name is Patrick! I’m a postgraduate student at the London School of Economics and Political Science (LSE) in the Department of Economcis. If you want to know more about me, feel free to take a look at
+Hi, my name is Patrick! I’m a postgraduate student at the London School of Economics and Political Science (LSE) in the Department of Economcis. If you want to know more about me, feel free to take a look at:
 
 + my [education](./education.md),
 + my [employment](./employment.md),
 + [publications](./publications.md) I’ve (co-) written
 + [roles of responsibility](./rrvolunteering.md) during my time at LSE
 
-Most of this information can also be found bundled in my CV (of which you can find the most recent version [here](https://drive.google.com/file/d/1Ai2mt1Wzk93KegvQwh1Q7NkugNRq_aMt/view?usp=drive_link).
+Most of this information can also be found bundled in my CV, of which you can find the most recent version [here](https://drive.google.com/file/d/1Ai2mt1Wzk93KegvQwh1Q7NkugNRq_aMt/view?usp=drive_link).
 
 * * *
 
