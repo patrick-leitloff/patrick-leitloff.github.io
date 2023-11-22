@@ -6,7 +6,8 @@ Hi, my name is Patrick! I’m a postgraduate student at the London School of Eco
 
 + my [education](./education.md),
 + my [employment](./employment.md),
-+ the [publications](./publications.md) I’ve (co-) written
++ [publications](./publications.md) I’ve (co-) written
++ [roles of responsibility](./rrvolunteering.md) during my time at LSE
 
 Most of this information can also be found bundled in my CV (of which you can find the most recent version [here](https://drive.google.com/file/d/1Ai2mt1Wzk93KegvQwh1Q7NkugNRq_aMt/view?usp=drive_link).
 
