@@ -6,9 +6,12 @@ layout: default
 
 <dl>
    <dt>Pre-Doctoral Fellow</dt>
-      <dd>August 2022 – July 2023; University of Zurich (UZH); working for Josef Zweimüller</dd>
+      <dd>August 2022 – July 2023; University of Zurich (UZH)</dd>
+      <dd>working at the research cluster of macro- and labour economics under supervision of Josef Zweimüller</dd>
    <dt>Working Student</dt>
-      <dd>June 2021 – September 2022; DIW German Economics Research Institute; working for Heike Link</dd>
+      <dd>June 2021 – September 2022; DIW German Economics Research Institute</dd>
+      <dd>working for Heike Link in the Department of Energy, Transportation and Environment</dd>
    <dt>Research Assistant</dt>
-      <dd>June 2021 – August 2021; London School of Economics and Political Science; working for Ricardo Reis</dd>
+      <dd>June 2021 – August 2021; London School of Economics and Political Science</dd>
+      <dd>working for Professor Ricardo Reis</dd>
 </dl>
