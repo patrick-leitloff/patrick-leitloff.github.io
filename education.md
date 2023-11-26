@@ -14,6 +14,7 @@ layout: default
       <dd>Quantitative Thesis: "Information-Processing Frictions in Inflation Forecasting: A Random Forest Approach", Supervisor: Dr Antonio Mele</dd>
    <dt>International Bachelor in Economics & Business Economics</dt>
       <dd>August 2018 – July 2019; Erasmus University Rotterdam </dd>
+      <dd>Successfully completed first year of studies (60 ECTS) with a grade of 8.39 (out of 10)</dd>
    <dt>Higher Education Entrance Qualification</dt>
       <dd>August 2010 – June 2018; Gymnasium Walsrode</dd>
       <dd>Final Grade: 1.0, Thesis Topic: Recent Developments in the Field of Post-Growth Economics</dd>
