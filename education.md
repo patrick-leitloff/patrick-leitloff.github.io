@@ -10,7 +10,7 @@ layout: default
       <dd>Elective Module: Quantitative Economics (held by Prof. Xavier Jaravel) </dd>
    <dt>Bachelor of Science (Econometrics & Mathematical Economics)</dt>
       <dd>September 2019 – July 2022; London School of Economics & Political Science (LSE) </dd>
-      <dd>Elective Modules: Abstract Mathematics, Real Analysis, Machine Learning, Applied Econometrics, International Economcs, Monetary Economics & Aggregate Fluctuations</dd>
+      <dd>Elective Modules: Abstract Mathematics, Real Analysis, Machine Learning, Applied Econometrics, International Economics, Monetary Economics & Aggregate Fluctuations</dd>
       <dd>Quantitative Thesis: "Information-Processing Frictions in Inflation Forecasting: A Random Forest Approach", Supervisor: Dr Antonio Mele</dd>
    <dt>International Bachelor in Economics & Business Economics</dt>
       <dd>August 2018 – July 2019; Erasmus University Rotterdam </dd>
