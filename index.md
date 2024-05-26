@@ -70,6 +70,10 @@ The projects I’m currently working on include:
 + a comprehensive literature survey on recent developments in gender economics
 + a working paper with Heike Link and Neil Murray (both DIW) on marginal cost estimation for transport infrastructure maintenance 
 + extensions to my undergraduate thesis on information frictions in inflation forecasting
++ my postgraduate thesis on local responses in google search behaviour in response to a trade shock
+
+# Files
+A limited set of replication files for my postgraduate thesis can be found here [here](https://drive.google.com/file/d/1vplQ1ix0rX3QkaV2dOG62OZPEdczFpSJ/view?usp=sharing)
 
 
 * * *
