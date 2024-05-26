@@ -73,7 +73,7 @@ The projects I’m currently working on include:
 + my postgraduate thesis on regional changes in google search behaviour in response to a trade shock
 
 # Files
-A limited set of replication files for my postgraduate thesis can be found here [here](https://drive.google.com/file/d/1vplQ1ix0rX3QkaV2dOG62OZPEdczFpSJ/view?usp=sharing)
+A limited set of replication files for my postgraduate thesis can be found [here](https://drive.google.com/file/d/1vplQ1ix0rX3QkaV2dOG62OZPEdczFpSJ/view?usp=sharing)
 
 
 * * *
