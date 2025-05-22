@@ -2,14 +2,14 @@
 layout: default
 ---
 
-Hi, my name is Patrick! I’m a postgraduate student at the London School of Economics and Political Science (LSE) in the Department of Economcis. If you want to know more about me, feel free to take a look at:
+Hi, my name is Patrick! I’m a first year PhD student at Northwestern University in the Department of Economcis. If you want to know more about me, feel free to take a look at:
 
 + my [education](./education.md),
 + my [employment](./employment.md),
 + [publications](./publications.md) I’ve (co-) written
 + [roles of responsibility](./rrvolunteering.md) during my time at LSE
 
-Most of this information can also be found bundled in my CV, of which you can find the most recent version [here](https://drive.google.com/file/d/1Ai2mt1Wzk93KegvQwh1Q7NkugNRq_aMt/view?usp=drive_link).
+Most of this information can also be found bundled in my CV, of which you can find the most recent version [here](https://drive.google.com/file/d/1BPiWx6rpnOMHl7eCOd2P2thrdEpYrfBu/view?usp=sharing).
 
 * * *
 
@@ -66,9 +66,8 @@ Most of this information can also be found bundled in my CV, of which you can fi
 # Projects
 
 The projects I’m currently working on include:
-+ a joint paper with Josef Zweimüller (UZH) on changes in gender norms and labour market outcomes of men and women in Switzerland since the adoption of women's suffrage
++ RA work for Matthias Doepke on Fertility, Labor Force Participation, and Intra-Family Bargaining
 + a comprehensive literature survey on recent developments in gender economics
-+ a working paper with Heike Link and Neil Murray (both DIW) on marginal cost estimation for transport infrastructure maintenance 
 + extensions to my undergraduate thesis on information frictions in inflation forecasting
 + my postgraduate thesis on regional changes in google search behaviour in response to a trade shock
 
@@ -78,31 +77,9 @@ A limited set of replication files for my postgraduate thesis can be found [here
 
 * * *
 
-# Collaborators
-
-Here's a list of amazing people that I (a) had the pleasure to work with and learn from in the past or (b) with whom I’m currently working with and learning from:
-+ [Josef Zweimüller](https://sites.google.com/view/josefzweimueller/home) (University of Zurich)
-+ [Andreas Steinhauer](https://www.ed.ac.uk/profile/andreas-steinhauer) (University of Edinburgh)
-+ [David Dorn](https://www.ddorn.net/) (University of Zurich)
-+ [Reto Foellmi](https://sites.google.com/site/foellmireto/home) (University of St Gallen)
-+ [Sandro Favre](https://www.econ.uzh.ch/en/people/researchers/favre.html) (University of Zurich)
-+ [Rafael Dix-Carneiro](https://sites.google.com/site/rafaeldixcarneiro/) (Duke University)
-+ [Ricardo Reis](https://www.r2rsquared.com/) (London School of Economics and Political Science)
-+ [Heike Link](https://www.diw.de/sixcms/detail.php?id=diw_01.c.10880.en) (DIW)
-+ [Neil Murray](https://www.diw.de/sixcms/detail.php?id=diw_01.c.815528.en) (DIW)
-+ [Eddy Zou](https://www.lse.ac.uk/economics/people/research-students/eddy-weijian-zou) (London School of Economics and Political Science)
-+ Sally Kaya Yang
-+ [Jason Jia](https://cepr.org/about/people/jason-jia)
-+ [Tomas Tapak](https://profiles.stanford.edu/tomas-tapak) (Stanford University)
-+ [Francesco Casalena](https://www.graduateinstitute.ch/discover-institute/casalena-francesco) (Geneva Graduate Institute)
-+ Brooklyn Han
-
-
-* * *
-
 # Get in Touch
 
-If you want to get in touch, you can reach me at any time via <p.m.leitloff@lse.ac.uk>.
+If you want to get in touch, you can reach me at any time via <patrickleitloff2029@u.northwestern.edu>.
 
 On the internet, there are also some other places where you can find me and reach out, including but not limited to:
 + [Academia.edu](https://independent.academia.edu/PatrickMichaelLeitloff)
