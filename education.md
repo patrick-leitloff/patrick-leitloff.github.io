@@ -5,6 +5,9 @@ layout: default
 # Education
 
 <dl>
+   <dt>PhD in Economics</dt>
+      <dd>September 2024 – July 2030; Northwestern University</dd>
+      <dd>Audited Public Finance in addition to the First Year sequence</dd>
    <dt>Master of Science (Econometrics and Mathematical Economics)</dt>
       <dd>September 2023 – July 2024; London School of Economics and Political Science (LSE)</dd>
       <dd>Elective Module: Quantitative Economics (held by Prof. Xavier Jaravel) </dd>
