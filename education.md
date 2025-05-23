@@ -6,7 +6,7 @@ layout: default
 
 <dl>
    <dt>PhD in Economics</dt>
-      <dd>September 2024 – July 2030; Northwestern University</dd>
+      <dd>September 2024 – July 2030 (expected); Northwestern University</dd>
       <dd>Audited Public Finance in addition to the First Year sequence</dd>
    <dt>Master of Science (Econometrics and Mathematical Economics)</dt>
       <dd>September 2023 – July 2024; London School of Economics and Political Science (LSE)</dd>
