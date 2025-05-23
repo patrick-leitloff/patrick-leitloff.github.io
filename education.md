@@ -6,8 +6,9 @@ layout: default
 
 <dl>
    <dt>Master of Science (Econometrics and Mathematical Economics)</dt>
-      <dd>September 2023 – July 2024 (expected); London School of Economics and Political Science (LSE)</dd>
+      <dd>September 2023 – July 2024; London School of Economics and Political Science (LSE)</dd>
       <dd>Elective Module: Quantitative Economics (held by Prof. Xavier Jaravel) </dd>
+      <dd>Graduated with Merit, Extented Essay awarded with Distinction </dd>
    <dt>Bachelor of Science (Econometrics & Mathematical Economics)</dt>
       <dd>September 2019 – July 2022; London School of Economics & Political Science (LSE) </dd>
       <dd>Elective Modules: Abstract Mathematics, Real Analysis, Machine Learning, Applied Econometrics, International Economics, Monetary Economics & Aggregate Fluctuations</dd>
