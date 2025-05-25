@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hi, my name is Patrick! I’m a first year PhD student at Northwestern University in the Department of Economcis. If you want to know more about me, feel free to take a look at:
+Hi, my name is Patrick! I’m a first year PhD student at Northwestern University in the Department of Economics. If you want to know more about me, feel free to take a look at:
 
 + my [education](./education.md),
 + my [employment](./employment.md),
