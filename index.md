@@ -67,7 +67,7 @@ Most of this information can also be found bundled in my CV, of which you can fi
 
 The projects I’m currently working on include:
 + RA work for Matthias Doepke on Fertility, Labor Force Participation, and Intra-Family Bargaining
-+ a comprehensive literature survey on recent developments in gender economics
++ a comprehensive literature survey on recent developments in demographic economics
 + extensions to my undergraduate thesis on information frictions in inflation forecasting
 + my postgraduate thesis on regional changes in google search behaviour in response to a trade shock
 
